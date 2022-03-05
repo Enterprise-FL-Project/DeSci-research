@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "grant-search-package"
+  project_description: "scrapes the dataset from NIH funded research dataset RePORTER and their patents, specially from the subjects in the field of longevity and ageing using NLP models "
+  organization: "DeSCI-corp"
+  license: "MIT"
+  minimal_python_version: 3.8
+  github_name: "GrandGarcon"
+  email: "malikdhruv1994@gmail.com"
+  version: "0.0.1"
+  line_length: "88"
+  create_example_template: "cli"
